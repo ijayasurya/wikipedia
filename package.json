@@ -18,7 +18,7 @@
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
     "@fortawesome/vue-fontawesome": "0.0.23",
     "axios": "^0.18.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "normalize.css": "^8.0.0",
     "nuxt": "^1.4.0",
     "pug": "^2.0.3",
